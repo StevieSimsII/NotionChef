@@ -1,0 +1,4 @@
+recipe-scrapers
+notion-client
+python-dotenv
+python-telegram-bot
